@@ -2,4 +2,3 @@ kaon.cc {
 	header Content-Type text/html
 	respond "<h1>Hello world!</h1>"
 }
-
